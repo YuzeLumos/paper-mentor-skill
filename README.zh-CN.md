@@ -59,7 +59,7 @@ policy:
 Windows 临时安装：
 
 ```powershell
-git clone https://github.com/YOUR_NAME/paper-mentor-skill.git
+git clone https://github.com/YuzeLumos/paper-mentor-skill.git
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills"
 Copy-Item -Recurse -Force ".\paper-mentor-skill\paper-mentor" "$env:USERPROFILE\.codex\skills\"
 ```

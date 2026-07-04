@@ -84,7 +84,7 @@ Clone this repository, then copy the `paper-mentor` folder into your Codex skill
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/YOUR_NAME/paper-mentor-skill.git
+git clone https://github.com/YuzeLumos/paper-mentor-skill.git
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills"
 Copy-Item -Recurse -Force ".\paper-mentor-skill\paper-mentor" "$env:USERPROFILE\.codex\skills\"
 ```
@@ -92,7 +92,7 @@ Copy-Item -Recurse -Force ".\paper-mentor-skill\paper-mentor" "$env:USERPROFILE\
 macOS or Linux:
 
 ```bash
-git clone https://github.com/YOUR_NAME/paper-mentor-skill.git
+git clone https://github.com/YuzeLumos/paper-mentor-skill.git
 mkdir -p ~/.codex/skills
 cp -r paper-mentor-skill/paper-mentor ~/.codex/skills/
 ```
