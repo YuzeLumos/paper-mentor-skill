@@ -136,10 +136,6 @@ Better prompt:
 I am writing a paper in [field] for [venue or reader]. My claimed contribution is [claim]. Below is my abstract and introduction. Please evaluate whether the motivation, gap, contribution, and evidence chain are clear. Give feedback as Advisor, Reviewer 2, Method Auditor, and Writing Coach. End with the top three revision actions and better prompts I should ask next.
 ```
 
-## What It Is Not
-
-This is not a paper generator, citation faker, acceptance predictor, or shortcut around academic responsibility. It is a structured mentor workflow for critique, planning, revision, and better AI conversations.
-
 ## Repository Structure
 
 ```text
