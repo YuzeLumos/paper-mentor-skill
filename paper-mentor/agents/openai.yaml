@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Mentor"
+  short_description: "Paper review and research prompt coach."
+  default_prompt: "Use $paper-mentor in Paper Health Check mode to review my idea, draft, or reviewer response."
+
+policy:
+  allow_implicit_invocation: false
