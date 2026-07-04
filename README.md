@@ -159,19 +159,6 @@ paper-mentor-skill/
     ...
 ```
 
-## Publish Your Own Version
-
-Create an empty GitHub repository named `paper-mentor-skill`, then run:
-
-```bash
-git init
-git add .
-git commit -m "Initial paper mentor skill"
-git branch -M main
-git remote add origin https://github.com/YOUR_NAME/paper-mentor-skill.git
-git push -u origin main
-```
-
 ## License
 
 MIT
